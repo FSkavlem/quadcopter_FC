@@ -6,7 +6,6 @@
           "limitSymbolsToIncludedHeaders": false
         },
         "includePath": [
-          "/home/ros/mrs_workspace/devel/include/**",
           "/opt/ros/noetic/include/**",
           "/usr/include/**"
         ],

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node name="quadctoper_fc_cpp" pkg="fc_pub" type="FC" output="screen"/>
+
+</launch>
